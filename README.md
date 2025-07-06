@@ -11,10 +11,12 @@ Duration : 4 WEEKS
 
 Mentor : NEELA SANTHOSH
 
-AIM
+AIM:
+
 Develop a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences. The system should analyze user behavior and generate personalized recommendations.
 
-TASK DESCRIPTION
+TASK DESCRIPTION:
+
 Understand Recommendation System Concepts
 
 Study collaborative filtering, content-based filtering, and hybrid recommendation techniques.
